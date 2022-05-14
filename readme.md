@@ -4,6 +4,8 @@ SPDX-FileCopyrightText: 2021 Andre Staltz
 SPDX-License-Identifier: CC0-1.0
 -->
 
+:warning: **This repo was moved to https://github.com/ssbc/ssb-http-auth-client.** This archival will remain in this GitHub org `ssb-ngi-pointer` to demonstrate the outcome of the work done by the SSB NGI Pointer team during 2020 and 2021. The SSB NGI Pointer team is no longer active because we completed our grant project.
+
 # ssb-http-auth-client
 
 Plugin that implements [Sign-in with SSB](https://ssb-ngi-pointer.github.io/rooms2/#sign-in-with-ssb) (primarily to the web dashboard of SSB servers, such as rooms and others) on the client-side. This is supposed to be installed and used on **apps** that make remote calls to servers, thus *clients*.
